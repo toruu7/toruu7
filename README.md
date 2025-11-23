@@ -1,4 +1,75 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=muhtadeet&theme=catppuccin-mocha&hide_border=true&border_radius=10&card_width=500" height="200" alt="GitHub Streak" /></a><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhtadeet&locale=en&hide_title=true&layout=compact&card_width=230&langs_count=4&theme=catppuccin_mocha&hide_border=true&order=2" height="130" alt="loveToWorkOn"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Toru;In+a+war+with+bugs+%F0%9F%90%9B;Building+Kami+%26+Comrade;TypeScript+%7C+React+%7C+AI" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  <a href="http://toruu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhtadee-taron-b4253628b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/muhtadeee.taaron" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=toruu7&label=Profile%20Views&color=blue&style=flat" alt="toruu7" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm **Muhtadee (Toru)**, a developer currently **in a war with bugs**. I specialize in building modern web applications and AI-integrated tools.
+
+- 🔭 I’m currently working on **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Comrade](https://github.com/toruu7/comrade)** (Gemini-AI).
+- 🌱 I’m currently mastering **TypeScript** and **Next.js**.
+- 🕌 Creator of **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
+- ⚡ Fun fact: My code works... eventually.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,git,vscode" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/toruu7">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toruu7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/toruu7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toruu7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Toruu7's Github Stats" />
+  </a>
+  <a href="https://github.com/toruu7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toruu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=toruu7&theme=tokyonight&no-frame=true&column=4" width="800" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/toruu7/toruu7/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </div>
