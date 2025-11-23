@@ -36,7 +36,7 @@ I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I speciali
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,framer,shadcn,n8n,nodejs,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,git,vscode" />
 </div>
 
 ---
