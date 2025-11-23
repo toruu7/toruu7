@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Toru;In+a+war+with+bugs+%F0%9F%90%9B;Building+Kami+%26+Comrade;TypeScript+%7C+React+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Toru;In+a+war+with+bugs+%F0%9F%90%9B;TypeScript+%7C+Next+JS+%7C+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,11 +25,10 @@
 
 ### 👨‍💻 About Me
 
-I'm **Muhtadee (Toru)**, a developer currently **in a war with bugs**. I specialize in building modern web applications and AI-integrated tools.
+I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I specialize in building modern web applications and AI-integrated tools.
 
-- 🔭 I’m currently working on **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Comrade](https://github.com/toruu7/comrade)** (Gemini-AI).
 - 🌱 I’m currently mastering **TypeScript** and **Next.js**.
-- 🕌 Creator of **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
+- 🕌 Creator of **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
 - ⚡ Fun fact: My code works... eventually.
 
 ---
@@ -58,13 +57,6 @@ I'm **Muhtadee (Toru)**, a developer currently **in a war with bugs**. I special
   </a>
   <a href="https://github.com/toruu7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toruu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=toruu7&theme=tokyonight&no-frame=true&column=4" width="800" />
   </a>
 </div>
 
