@@ -60,5 +60,5 @@ I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I speciali
 ---
 
 <div align="center">
-  <img src="https://github.com/toruu7/toruu7/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/toruu7/toruu7/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </div>
