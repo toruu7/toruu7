@@ -28,7 +28,7 @@
 I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I specialize in building modern web applications and AI-integrated tools.
 
 - 🌱 I’m currently mastering **TypeScript** and **Next.js**.
-- 🕌 Creator of **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
+- 🤖 Creator of **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
 - ⚡ Fun fact: My code works... eventually.
 
 ---
@@ -52,9 +52,6 @@ I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I speciali
 <br />
 
 <div align="center">
-  <a href="https://github.com/toruu7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toruu7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Toruu7's Github Stats" />
-  </a>
   <a href="https://github.com/toruu7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toruu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
