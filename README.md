@@ -41,17 +41,6 @@ current_directive:
 
 ---
 
-### ⚡ Selected Public Systems & Engineering
-
-| System | Domain | Architecture & Highlights |
-| :--- | :--- | :--- |
-| **[Zunesha (`zou`)](https://github.com/toruu7/zunesha)** <br><sub>[Live Documentation](https://zunesha-docs.vercel.app)</sub> | Autonomous Runtimes | Local-first parallel AI coding orchestrator. Plans a task DAG, provisions isolated workspaces, coordinates concurrent agent passes, and merges approved diffs via human review. Built in **Rust**. |
-| **[AirGrab](https://github.com/toruu7/airgrab)** <br><sub>[Repository](https://github.com/toruu7/airgrab)</sub> | Spatial & Gesture Computing | Touchless **Grab & Release** file-sharing for Android. Combines CameraX and MediaPipe for real-time hand gesture tracking with WebRTC / Nearby mesh for instant, PIN-free peer discovery. Built in **Kotlin & Jetpack Compose**. |
-| **[Geelark Cloud Phone / ADB](https://github.com/toruu7/geelark-cloud-phone)** <br><sub>[ADB Bridge Repo](https://github.com/toruu7/geelark-cloud-adb)</sub> | Automation & Infrastructure | Automated cloud mobile device orchestration and low-level ADB bridge integration for multi-device testing and scripted workflows. Built in **Python**. |
-| **[Kami](https://github.com/toruu7/kami)** <br><sub>[Repository](https://github.com/toruu7/kami)</sub> | Design Engineering | High-performance collaborative note application with rich-text editor, real-time sync, and fluid interactions. Built in **Next.js & TypeScript**. |
-
----
-
 ### 🛠️ Core Arsenal
 
 <p align="center">
