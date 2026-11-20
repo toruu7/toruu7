@@ -1,64 +1,33 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Toru;In+a+war+with+bugs+%F0%9F%90%9B;TypeScript+%7C+Next+JS+%7C+AI" alt="Typing SVG" />
-</div>
+# Muhtadee Taron (Toru)
 
-<div align="center">
-  
-  <a href="http://toruu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhtadee-taron-b4253628b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/muhtadeee.taaron" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+**Automation Engineer & Systems Builder.**  
+I engineer autonomous workflows by day, and architect high-craft systems, local-first agent runtimes, and gesture-driven computing interfaces for web and mobile.
 
-<br />
+> *"If it is tedious, automate it. If it is sluggish, rebuild it in Rust. If it lacks feel, give it physics."*
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=toruu7&label=Profile%20Views&color=blue&style=flat" alt="toruu7" />
-</div>
+[Website](https://toru7.dev) &ensp;·&ensp; [X (Twitter)](https://x.com/toruuzumi) &ensp;·&ensp; [LinkedIn](https://linkedin.com/in/muhtadee-taron-b4253628b) &ensp;·&ensp; [Email](mailto:sheikh.taron@northsouth.edu)
 
 ---
 
-### 👨‍💻 About Me
+### Selected Systems & Machines
 
-I'm **Muhtadee Taron**, a developer currently **in a war with bugs**. I specialize in building modern web applications and AI-integrated tools.
-
-- 🌱 I’m currently mastering **TypeScript** and **Next.js**.
-- 🤖 Creator of **[Kami](https://github.com/toruu7/kami)** (Note App) & **[Ibadah](https://github.com/toruu7/Ibadah)** (Prayer Times App).
-- ⚡ Fun fact: My code works... eventually.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,git,vscode" />
-</div>
+| System | Domain | Architecture & Highlights |
+| :--- | :--- | :--- |
+| **[Zunesha](https://github.com/toruu7/zunesha)** <br><sub>[Documentation](https://zunesha-docs.vercel.app)</sub> | Autonomous Systems & Runtimes | Local-first parallel AI coding orchestrator. Plans a task DAG, provisions isolated workspaces, coordinates concurrent agent passes, and merges approved diffs via human review. Built in **Rust**. |
+| **[AirGrab](https://github.com/toruu7/airgrab)** <br><sub>[Repository](https://github.com/toruu7/airgrab)</sub> | Spatial & Gesture Computing | Touchless **Grab & Release** file-sharing for Android. Combines CameraX and MediaPipe for low-latency hand gesture tracking with WebRTC / Nearby mesh for instant, PIN-free peer discovery. Built in **Kotlin & Jetpack Compose**. |
+| **Platen** <br><sub>Tactile Engine · Private</sub> | Sensory Interfaces & Audio DSP | Offline-first typewriter note engine. Integrates a deterministic audio DSP pipeline via `SoundPool`, custom reverb-style haptic modeling, and mechanical hardware keyboard ergonomics. Built in **Kotlin & Jetpack Compose**. |
+| **Event Photo Finder** <br><sub>Biometric Search · Private</sub> | Applied ML & SaaS Platform | Multi-tenant photography platform. Enables event guests to instantly isolate their photos across massive albums using face embeddings (`InsightFace` + PostgreSQL `pgvector`). Built with **FastAPI, Next.js, and Cloudflare R2**. |
 
 ---
 
-### 📈 GitHub Stats
+### Engineering Arsenal
 
-<div align="center">
-  <a href="https://github.com/toruu7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toruu7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/toruu7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toruu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
+* **Autonomous Systems & Orchestration:** Rust, Python, DAG Schedulers, Agent Execution Protocols, Multi-Device ADB Orchestration, Cloud Workflows.
+* **Native & Sensory Computing:** Android (Kotlin, Jetpack Compose, Material 3), MediaPipe Computer Vision, CameraX, Audio DSP (`SoundPool`), Physical Haptic Modeling.
+* **Web Architecture & Design Engineering:** Next.js (App Router), TypeScript, React, Tailwind CSS, Shadcn UI, pgvector, FastAPI, PostgreSQL, Cloudflare R2.
 
 ---
 
-<div align="center">
-  <img src="https://github.com/toruu7/toruu7/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-</div>
+### Direct Coordinates
+
+Available for high-stakes automation architecture, spatial/gesture interaction engineering, and autonomous agent systems.
