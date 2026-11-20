@@ -1,4 +1,4 @@
-<h1 align="center">Muhtadee Taron</h1>
+<h1 align="center">Toru</h1>
 
 <p align="center">
   <a href="https://toru7.dev">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/X-@toruuzumi-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=181825" alt="X" />
   </a>
   <a href="https://linkedin.com/in/muhtadee-taron-b4253628b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhtadee_Taron-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=181825" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Toru-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=181825" alt="LinkedIn" />
   </a>
   <a href="mailto:sheikh.taron@northsouth.edu">
     <img src="https://img.shields.io/badge/Email-Contact_Me-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=181825" alt="Email" />
@@ -22,7 +22,7 @@
 </p>
 
 ```yaml
-operator: Muhtadee Taron (Toru)
+operator: Toru
 role: Automation Engineer & Systems Builder
 domain: Automation Infrastructure | Native Mobile | High-Craft Web
 creed: "If it is tedious, automate it. If it is sluggish, rebuild it in Rust. If it lacks feel, give it physics."
