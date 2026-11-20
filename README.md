@@ -41,7 +41,7 @@ current_directive:
 
 ---
 
-### 🛠️ Core Arsenal
+### Core Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -56,7 +56,7 @@ current_directive:
 
 ---
 
-### 📊 Cockpit Telemetry
+### Cockpit Telemetry
 
 <p align="center">
   <a href="https://github.com/toruu7">
