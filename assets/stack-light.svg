@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" fill="none">
+  <defs>
+    <linearGradient id="bg-stack-light" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fafbfe"/>
+      <stop offset="100%" stop-color="#eff1f5"/>
+    </linearGradient>
+    <pattern id="grid-stack-light" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#dce0e8" stroke-width="0.75" opacity="0.5"/>
+    </pattern>
+    <clipPath id="clip-stack-light">
+      <rect x="0.5" y="0.5" width="899" height="319" rx="16"/>
+    </clipPath>
+    
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+    .kicker { font-size: 10.5px; letter-spacing: 2.6px; fill: #1e66f5; font-weight: 600; }
+    .title { font-size: 21px; fill: #1e1e2e; font-weight: 600; }
+    .muted { fill: #7c7f93; }
+    .sub { fill: #4c4f69; }
+    
+  </style>
+  <g clip-path="url(#clip-stack-light)">
+    <rect x="0" y="0" width="900" height="320" fill="url(#bg-stack-light)"/>
+    <rect x="0" y="0" width="900" height="320" fill="url(#grid-stack-light)"/>
+    
+    <text x="48" y="42" class="mono kicker">TECHNOLOGY SPECTRUM</text>
+    <text x="48" y="72" class="mono title">The tools behind the work</text>
+    <line x1="48" y1="92" x2="852" y2="92" stroke="#bcc0cc" stroke-width="1" stroke-dasharray="4 8"/>
+    
+        <rect x="48" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#fab387" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="63" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#fab387">RS</text>
+        <text x="48" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Rust</text>
+        <text x="48" y="192" class="mono muted" font-size="11">29.4% of public code</text>
+        <rect x="48" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="48" y="202" width="50.6" height="3" rx="1.5" fill="#fab387"/>
+        
+        <rect x="255" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#89b4fa" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="270" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#89b4fa">TS</text>
+        <text x="255" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">TypeScript</text>
+        <text x="255" y="192" class="mono muted" font-size="11">26.0% of public code</text>
+        <rect x="255" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="255" y="202" width="44.7" height="3" rx="1.5" fill="#89b4fa"/>
+        
+        <rect x="462" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#74c7ec" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="477" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#74c7ec">PY</text>
+        <text x="462" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Python</text>
+        <text x="462" y="192" class="mono muted" font-size="11">14.8% of public code</text>
+        <rect x="462" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="462" y="202" width="25.5" height="3" rx="1.5" fill="#74c7ec"/>
+        
+        <rect x="669" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#f9e2af" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="684" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f9e2af">JS</text>
+        <text x="669" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">JavaScript</text>
+        <text x="669" y="192" class="mono muted" font-size="11">14.0% of public code</text>
+        <rect x="669" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="669" y="202" width="24.1" height="3" rx="1.5" fill="#f9e2af"/>
+        
+        <rect x="48" y="224" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#cba6f7" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="63" y="243" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#cba6f7">KT</text>
+        <text x="48" y="276" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Kotlin</text>
+        <text x="48" y="294" class="mono muted" font-size="11">7.6% of public code</text>
+        <rect x="48" y="304" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="48" y="304" width="13.1" height="3" rx="1.5" fill="#cba6f7"/>
+        
+        <rect x="255" y="224" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#a6e3a1" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="270" y="243" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#a6e3a1">SH</text>
+        <text x="255" y="276" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Shell</text>
+        <text x="255" y="294" class="mono muted" font-size="11">1.8% of public code</text>
+        <rect x="255" y="304" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="255" y="304" width="6.0" height="3" rx="1.5" fill="#a6e3a1"/>
+        
+        <rect x="462" y="224" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#89dceb" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="477" y="243" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#89dceb">CS</text>
+        <text x="462" y="276" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">CSS</text>
+        <text x="462" y="294" class="mono muted" font-size="11">1.7% of public code</text>
+        <rect x="462" y="304" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="462" y="304" width="6.0" height="3" rx="1.5" fill="#89dceb"/>
+        
+        <rect x="669" y="224" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#94e2d5" stroke-width="1.2" stroke-opacity="0.7"/>
+        <text x="684" y="243" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#94e2d5">DT</text>
+        <text x="669" y="276" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Dart</text>
+        <text x="669" y="294" class="mono muted" font-size="11">1.6% of public code</text>
+        <rect x="669" y="304" width="172" height="3" rx="1.5" fill="#dce0e8"/>
+        <rect x="669" y="304" width="6.0" height="3" rx="1.5" fill="#94e2d5"/>
+        
+    
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="319" rx="16" stroke="#ccd0da" stroke-width="1"/>
+</svg>

@@ -1,67 +1,108 @@
-<h1 align="center">Toru</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://toru7.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=cba6f7&center=true&vCenter=true&width=550&height=40&lines=Automation+Engineer+%26+Systems+Builder;Architecting+Autonomous+Agent+Runtimes;Engineering+Gesture-Driven+Mobile+Systems;Building+Local-First+Platforms+in+Rust" alt="Typing SVG" />
-  </a>
+<p><sub>LIVING IDENTITY · TORU · LIVE</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-dark.svg" width="100%" alt="Toru animated Living Identity portrait and 3D dot-matrix wordmark" />
+</picture>
+
+<p><strong>Automation Engineer & Systems Builder</strong></p>
+<p>If it is tedious, automate it. If it is sluggish, rebuild it in Rust. If it lacks feel, give it physics.</p>
+<p>
+  <a href="https://toru7.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://x.com/toruuzumi">X (@toruuzumi)</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/muhtadee-taron-b4253628b">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sheikh.taron@northsouth.edu">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://toru7.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-toru7.dev-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=89b4fa&labelColor=181825" alt="Website" />
-  </a>
-  <a href="https://x.com/toruuzumi" target="_blank">
-    <img src="https://img.shields.io/badge/X-@toruuzumi-1e1e2e?style=for-the-badge&logo=x&logoColor=cdd6f4&labelColor=181825" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/muhtadee-taron-b4253628b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Toru-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa&labelColor=181825" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sheikh.taron@northsouth.edu">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8&labelColor=181825" alt="Email" />
-  </a>
+</div>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Identity, with signal</h2>
+
+<table width="100%">
+  <tbody>
+    <tr>
+      <td width="62%">
+        <p>If it is tedious, automate it. If it is sluggish, rebuild it in Rust. If it lacks feel, give it physics.</p>
+        <p><strong>Focus:</strong> <code>Rust</code> · <code>Kotlin</code> · <code>TypeScript</code> · <code>Python</code></p>
+        <p><sub>Engineering high-throughput automation pipelines by day. Architecting local-first AI runtimes and gesture-driven systems by night.</sub></p>
+      </td>
+      <td width="38%">
+        <p><code>LIVE SIGNAL</code></p>
+        <p>
+          <strong>20</strong> public repos<br/>
+          <strong>20</strong> stars<br/>
+          <strong>400</strong> contributions (1y)<br/>
+          <strong>6</strong> followers
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg" />
+  <img src="assets/highlights-dark.svg" width="100%" alt="Toru current focus highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" width="100%" alt="Toru technology spectrum" />
+</picture>
+
+<p align="center"><sub>Rust · TypeScript · Python · JavaScript · Kotlin · Shell · chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img src="assets/stats-dark.svg" width="100%" alt="Toru live GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg" />
+  <img src="assets/heatmap-dark.svg" width="100%" alt="Toru contribution energy field" />
+</picture>
+
+<p align="center"><sub>4 day current streak · 67 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/social-light.svg" />
+  <img src="assets/social-dark.svg" width="100%" alt="Toru direct coordinates" />
+</picture>
+
+<p>
+  <a href="https://toru7.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://x.com/toruuzumi">X</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/muhtadee-taron-b4253628b">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sheikh.taron@northsouth.edu">Email</a>
 </p>
 
-```yaml
-operator: Toru
-role: Automation Engineer & Systems Builder
-domain: Automation Infrastructure | Native Mobile | High-Craft Web
-creed: "If it is tedious, automate it. If it is sluggish, rebuild it in Rust. If it lacks feel, give it physics."
-
-architecture:
-  systems: [Rust, Python, Task DAGs, Agent Orchestration, ADB Bridge]
-  mobile:  [Android, Kotlin, Jetpack Compose, MediaPipe Vision, Audio DSP]
-  web:     [Next.js App Router, TypeScript, Tailwind CSS, FastAPI, pgvector]
-
-current_directive:
-  - "Engineering high-throughput automation pipelines by day"
-  - "Architecting local-first AI runtimes and gesture interfaces by night"
-```
-
----
-
-### Core Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-1e1e2e?style=for-the-badge&logo=rust&logoColor=fab387" alt="Rust" />
-  <img src="https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=cba6f7" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" alt="Python" />
-  <br/>
-  <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=cdd6f4" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Android_Compose-1e1e2e?style=for-the-badge&logo=android&logoColor=a6e3a1" alt="Compose" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=94e2d5" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=b4befe" alt="Postgres" />
-</p>
-
----
-
-### Cockpit Telemetry
-
-<p align="center">
-  <a href="https://github.com/toruu7">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=toruu7&theme=catppuccin-mocha&background=1e1e2e&border=313244&stroke=cba6f7&ring=cba6f7&fire=cba6f7&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=cba6f7&sideLabels=a6adc8&dates=6c7086&hide_border=false" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/toruu7">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toruu7&theme=catppuccin_mocha&layout=compact&bg_color=1e1e2e&border_color=313244&title_color=cba6f7&text_color=cdd6f4&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
+</div>
