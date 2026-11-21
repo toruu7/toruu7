@@ -35,7 +35,7 @@
         <p>
           <strong>20</strong> public repos<br/>
           <strong>20</strong> stars<br/>
-          <strong>400</strong> contributions (1y)<br/>
+          <strong>401</strong> contributions (1y)<br/>
           <strong>6</strong> followers
         </p>
       </td>

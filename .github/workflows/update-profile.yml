@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate profile SVGs and README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         run: python scripts/generate_profile.py
 
       - name: Commit and push updated assets

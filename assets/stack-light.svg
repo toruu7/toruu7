@@ -32,30 +32,30 @@
         <rect x="48" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#fab387" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="63" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#fab387">RS</text>
         <text x="48" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Rust</text>
-        <text x="48" y="192" class="mono muted" font-size="11">29.4% of public code</text>
+        <text x="48" y="192" class="mono muted" font-size="11">29.1% of public code</text>
         <rect x="48" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
-        <rect x="48" y="202" width="50.6" height="3" rx="1.5" fill="#fab387"/>
+        <rect x="48" y="202" width="50.1" height="3" rx="1.5" fill="#fab387"/>
         
         <rect x="255" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#89b4fa" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="270" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#89b4fa">TS</text>
         <text x="255" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">TypeScript</text>
-        <text x="255" y="192" class="mono muted" font-size="11">26.0% of public code</text>
+        <text x="255" y="192" class="mono muted" font-size="11">25.8% of public code</text>
         <rect x="255" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
-        <rect x="255" y="202" width="44.7" height="3" rx="1.5" fill="#89b4fa"/>
+        <rect x="255" y="202" width="44.4" height="3" rx="1.5" fill="#89b4fa"/>
         
         <rect x="462" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#74c7ec" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="477" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#74c7ec">PY</text>
         <text x="462" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Python</text>
-        <text x="462" y="192" class="mono muted" font-size="11">14.8% of public code</text>
+        <text x="462" y="192" class="mono muted" font-size="11">15.6% of public code</text>
         <rect x="462" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
-        <rect x="462" y="202" width="25.5" height="3" rx="1.5" fill="#74c7ec"/>
+        <rect x="462" y="202" width="26.8" height="3" rx="1.5" fill="#74c7ec"/>
         
         <rect x="669" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#f9e2af" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="684" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#f9e2af">JS</text>
         <text x="669" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">JavaScript</text>
-        <text x="669" y="192" class="mono muted" font-size="11">14.0% of public code</text>
+        <text x="669" y="192" class="mono muted" font-size="11">13.9% of public code</text>
         <rect x="669" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
-        <rect x="669" y="202" width="24.1" height="3" rx="1.5" fill="#f9e2af"/>
+        <rect x="669" y="202" width="23.9" height="3" rx="1.5" fill="#f9e2af"/>
         
         <rect x="48" y="224" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#cba6f7" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="63" y="243" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#cba6f7">KT</text>

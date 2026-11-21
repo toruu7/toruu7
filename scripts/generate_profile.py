@@ -266,7 +266,7 @@ def fetch_github_data(token: str) -> dict[str, Any]:
 def fetch_avatar_image(url: str) -> Image.Image:
     resp = requests.get(url, timeout=15)
     resp.raise_for_status()
-    return Image.open(io.BytesIO(resp.content)).convert("L")
+    return Image.open(io.BytesIO(resp.content)).convert("RGB")
 
 
 def svg_card_shell(
@@ -343,7 +343,7 @@ def build_wordmark_dots(word: str, start_x: float, start_y: float, step: float, 
 
 
 def build_portrait_dots(
-    img_gray: Image.Image,
+    img_rgb: Image.Image,
     cx: float,
     cy: float,
     radius: float,
@@ -351,9 +351,11 @@ def build_portrait_dots(
     theme: dict[str, str],
 ) -> str:
     size = 48
-    img = ImageOps.fit(img_gray, (size, size), method=Image.Resampling.LANCZOS)
-    img = ImageOps.autocontrast(img, cutoff=2)
-    img = ImageEnhance.Contrast(img).enhance(1.35)
+    img = ImageOps.fit(img_rgb, (size, size), method=Image.Resampling.LANCZOS)
+    img = ImageEnhance.Color(img).enhance(1.45)
+    img = ImageEnhance.Contrast(img).enhance(1.25)
+    if mode == "dark":
+        img = ImageEnhance.Brightness(img).enhance(1.12)
     pixels = img.load()
 
     step = (radius * 2) / size
@@ -368,20 +370,31 @@ def build_portrait_dots(
             dist = math.hypot(px - cx, py - cy)
             if dist > radius - 2:
                 continue
-            lum = pixels[x, y] / 255.0
-            if mode == "light":
-                intensity = 1.0 - lum
-            else:
-                intensity = lum
+            r_ch, g_ch, b_ch = pixels[x, y]
+            lum = (0.299 * r_ch + 0.587 * g_ch + 0.114 * b_ch) / 255.0
             # Edge feathering inside the circular radar
             edge_fade = max(0.0, min(1.0, (radius - dist) / 14.0))
+            if mode == "light":
+                intensity = max(0.18, 1.0 - lum * 0.85)
+            else:
+                intensity = max(0.22, lum)
             val = intensity * edge_fade
-            if val < 0.09:
+            if val < 0.08:
                 continue
-            r = 0.55 + (val ** 1.15) * 1.85
-            op = 0.16 + val * 0.82
+            dot_r = 0.75 + (val ** 0.95) * 1.65
+            op = min(0.98, 0.30 + val * 0.68)
+            # Lift very dark pixels slightly in dark mode so shadow details stay rich
+            if mode == "dark":
+                r_out = min(255, int(r_ch * 0.9 + 24))
+                g_out = min(255, int(g_ch * 0.9 + 22))
+                b_out = min(255, int(b_ch * 0.9 + 36))
+            else:
+                r_out = int(r_ch * 0.88)
+                g_out = int(g_ch * 0.88)
+                b_out = int(b_ch * 0.88)
+            hex_color = f"#{r_out:02x}{g_out:02x}{b_out:02x}"
             dots.append(
-                f'<circle cx="{px:.1f}" cy="{py:.1f}" r="{r:.2f}" fill="{theme["portrait_dot"]}" opacity="{op:.2f}"/>'
+                f'<circle cx="{px:.1f}" cy="{py:.1f}" r="{dot_r:.2f}" fill="{hex_color}" opacity="{op:.2f}"/>'
             )
     return "\n    ".join(dots)
 
