@@ -35,7 +35,7 @@
         <p>
           <strong>20</strong> public repos<br/>
           <strong>20</strong> stars<br/>
-          <strong>402</strong> contributions (1y)<br/>
+          <strong>414</strong> contributions (1y)<br/>
           <strong>6</strong> followers
         </p>
       </td>
@@ -83,7 +83,7 @@
   <img src="assets/heatmap-dark.svg" width="100%" alt="Toru contribution energy field" />
 </picture>
 
-<p align="center"><sub>4 day current streak · 67 active days</sub></p>
+<p align="center"><sub>5 day current streak · 68 active days</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
