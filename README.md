@@ -33,10 +33,10 @@
       <td width="38%">
         <p><code>LIVE SIGNAL</code></p>
         <p>
-          <strong>20</strong> public repos<br/>
+          <strong>21</strong> public repos<br/>
           <strong>20</strong> stars<br/>
-          <strong>440</strong> contributions (1y)<br/>
-          <strong>6</strong> followers
+          <strong>446</strong> contributions (1y)<br/>
+          <strong>7</strong> followers
         </p>
       </td>
     </tr>
@@ -63,7 +63,7 @@
   <img src="assets/stack-dark.svg" width="100%" alt="Toru technology spectrum" />
 </picture>
 
-<p align="center"><sub>Rust · TypeScript · Python · JavaScript · Kotlin · Shell · chosen for the work, not the trend</sub></p>
+<p align="center"><sub>Rust · TypeScript · Python · JavaScript · Kotlin · HTML · chosen for the work, not the trend</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
