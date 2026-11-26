@@ -39,9 +39,9 @@
         <rect x="255" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#fab387" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="270" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#fab387">RS</text>
         <text x="255" y="174" class="mono" font-size="13.5" font-weight="600" fill="#1e1e2e">Rust</text>
-        <text x="255" y="192" class="mono muted" font-size="11">24.8% of public code</text>
+        <text x="255" y="192" class="mono muted" font-size="11">24.7% of public code</text>
         <rect x="255" y="202" width="172" height="3" rx="1.5" fill="#dce0e8"/>
-        <rect x="255" y="202" width="42.7" height="3" rx="1.5" fill="#fab387"/>
+        <rect x="255" y="202" width="42.5" height="3" rx="1.5" fill="#fab387"/>
         
         <rect x="462" y="122" width="30" height="30" rx="7" fill="#e6e9ef" stroke="#89b4fa" stroke-width="1.2" stroke-opacity="0.7"/>
         <text x="477" y="141" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#89b4fa">TS</text>
