@@ -33,9 +33,9 @@
       <td width="38%">
         <p><code>LIVE SIGNAL</code></p>
         <p>
-          <strong>21</strong> public repos<br/>
+          <strong>22</strong> public repos<br/>
           <strong>22</strong> stars<br/>
-          <strong>461</strong> contributions (1y)<br/>
+          <strong>473</strong> contributions (1y)<br/>
           <strong>7</strong> followers
         </p>
       </td>
@@ -63,7 +63,7 @@
   <img src="assets/stack-dark.svg" width="100%" alt="Toru technology spectrum" />
 </picture>
 
-<p align="center"><sub>Python · Rust · TypeScript · JavaScript · Kotlin · HTML · chosen for the work, not the trend</sub></p>
+<p align="center"><sub>Rust · Python · TypeScript · JavaScript · Kotlin · HTML · chosen for the work, not the trend</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
@@ -83,7 +83,7 @@
   <img src="assets/heatmap-dark.svg" width="100%" alt="Toru contribution energy field" />
 </picture>
 
-<p align="center"><sub>9 day current streak · 72 active days</sub></p>
+<p align="center"><sub>10 day current streak · 73 active days</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
