@@ -34,8 +34,8 @@
         <p><code>LIVE SIGNAL</code></p>
         <p>
           <strong>22</strong> public repos<br/>
-          <strong>22</strong> stars<br/>
-          <strong>473</strong> contributions (1y)<br/>
+          <strong>24</strong> stars<br/>
+          <strong>476</strong> contributions (1y)<br/>
           <strong>7</strong> followers
         </p>
       </td>

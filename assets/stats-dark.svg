@@ -34,12 +34,12 @@
         <circle cx="54" cy="194" r="6" fill="#89b4fa" fill-opacity="0.24" stroke="#89b4fa" stroke-width="1.2"/>
         <line x1="68" y1="194" x2="216" y2="194" stroke="#252c45" stroke-width="1" stroke-dasharray="4 8"/>
         
-        <text x="256" y="142" class="mono" font-size="26" font-weight="700" fill="#eef2ff">22</text>
+        <text x="256" y="142" class="mono" font-size="26" font-weight="700" fill="#eef2ff">24</text>
         <text x="256" y="164" class="mono muted" font-size="10" letter-spacing="2">STARS</text>
         <circle cx="262" cy="194" r="6" fill="#89b4fa" fill-opacity="0.24" stroke="#89b4fa" stroke-width="1.2"/>
         <line x1="276" y1="194" x2="424" y2="194" stroke="#252c45" stroke-width="1" stroke-dasharray="4 8"/>
         
-        <text x="464" y="142" class="mono" font-size="26" font-weight="700" fill="#eef2ff">473</text>
+        <text x="464" y="142" class="mono" font-size="26" font-weight="700" fill="#eef2ff">476</text>
         <text x="464" y="164" class="mono muted" font-size="10" letter-spacing="2">CONTRIBUTIONS</text>
         <circle cx="470" cy="194" r="6" fill="#89b4fa" fill-opacity="0.24" stroke="#89b4fa" stroke-width="1.2"/>
         <line x1="484" y1="194" x2="632" y2="194" stroke="#252c45" stroke-width="1" stroke-dasharray="4 8"/>
